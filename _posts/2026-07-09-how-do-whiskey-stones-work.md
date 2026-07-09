@@ -57,4 +57,4 @@ layout: default
 <p>Looking for quality whiskey stones? Check out <a href="https://nivoak.com/shop/">Nivoak's collection of premium stainless steel whiskey stones</a> to get started.</p>
 
 ---
-*Originally published on [Nivoak.com](https://nivoak.com/?p=2780)*
+*Originally published on [Nivoak.com](https://nivoak.com/?p=2781)*
