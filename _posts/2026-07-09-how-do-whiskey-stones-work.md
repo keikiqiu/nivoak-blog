@@ -3,7 +3,6 @@ title: "How Do Whiskey Stones Work? A Simple Guide for Beginners"
 date: 2026-07-09
 layout: default
 ---
-
 <p>Whiskey stones are small cubes or balls made from materials like stainless steel or soapstone that you freeze and then add to your whiskey. They chill your drink without melting, so you get a cold glass of whiskey without it getting watered down. It's that simple — cold whiskey, full flavor, no dilution.</p>
 
 <p>If you've ever had a glass of whiskey on the rocks, you know the problem: as the ice melts, your drink gets weaker. Whiskey stones solve this by staying solid while they cool your drink. Here's everything you need to know about how they work and whether they're right for you.</p>
@@ -17,7 +16,7 @@ layout: default
 <h2>Do Whiskey Stones Actually Work?</h2>
 <p>Yes, they do — but with one important caveat. They chill your drink, but not as dramatically as ice. Ice at 0°F (-18°C) will make your whiskey colder than stones at the same temperature. However, the trade-off is worth it for many whiskey drinkers: <strong>no dilution</strong>. Your whiskey stays at its intended flavor profile, just slightly cooler.</p>
 
-<p>According to seriouseats.com, whiskey stones typically lower the temperature of a drink by 10-15°F over 10-15 minutes, which is enough to take the edge off without numbing the flavors.</p>
+<p>Whiskey stones typically lower the temperature of a drink by about 10-15°F over 10-15 minutes, which is enough to take the edge off without numbing the flavors.</p>
 
 <h2>How to Use Whiskey Stones: Quick Steps</h2>
 <ol>
@@ -55,6 +54,5 @@ layout: default
 <p>Absolutely — they work great with any drink you want to chill without diluting, including wine, coffee, cocktails, and even soft drinks.</p>
 
 <p>Looking for quality whiskey stones? Check out <a href="https://nivoak.com/shop/">Nivoak's collection of premium stainless steel whiskey stones</a> to get started.</p>
-
 ---
-*Originally published on [Nivoak.com](https://nivoak.com/?p=2781)*
+*Originally published on [Nivoak.com](https://nivoak.com/?p=2797)*
