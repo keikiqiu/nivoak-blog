@@ -1,0 +1,6 @@
+title: "Nivoak Whiskey Stones Guide"
+description: "Expert guide to whiskey stones, whiskey accessories, and home bar tips. Learn how to enjoy whiskey the right way."
+url: "https://keikiqiu.github.io/nivoak-blog"
+baseurl: "/nivoak-blog"
+markdown: kramdown
+permalink: /:title/
