@@ -8,10 +8,10 @@ layout: default
 <h2>The Mistake: Not Waiting Long Enough</h2>
 <p>Here's what happens: you take the stones straight from the freezer, pour your whiskey over them, and take a sip immediately. The whiskey is barely chilled. You think "these don't work."</p>
 
-<p>The problem isn't the stones — it's the timing. Unlike ice, which starts chilling the moment it touches liquid, whiskey stones need time to transfer their cold energy. The stone and the whiskey need a few minutes to reach thermal equilibrium.</p>
+<p>The problem isn't the stones — it's the timing. Unlike ice, which starts chilling the moment it touches liquid, whiskey stones need time to transfer their cold energy.</p>
 
 <h2>The Fix: Wait 2-3 Minutes</h2>
-<p>After adding stones to your whiskey, let the glass sit for 2-3 minutes before your first sip. This gives the stones time to absorb heat from the liquid and bring the temperature down. The difference between immediate sipping and waiting is night and day — literally 10-15°F difference.</p>
+<p>After adding stones to your whiskey, let the glass sit for 2-3 minutes before your first sip. This gives the stones time to absorb heat from the liquid and bring the temperature down.</p>
 
 <p>This is why sets like the <a href="https://nivoak.com/product/whisky-stones-gift-set-stainless-steel-ice-cubes/">Nivoak Whisky Stones Gift Set</a> include a wooden box — it's designed to be part of your bar ritual. Prep your stones, pour your drink, wait a moment, and enjoy.</p>
 
@@ -20,7 +20,6 @@ layout: default
 <li><strong>Not freezing long enough:</strong> 30 minutes in the freezer isn't enough. Give them at least 2 hours, preferably overnight.</li>
 <li><strong>Using too few stones:</strong> One or two stones won't do much. Use 3-4 for a standard pour.</li>
 <li><strong>Wet stones:</strong> If you put wet stones in the freezer, they form an ice layer — which melts into your drink. Dry them first.</li>
-<li><strong>Cheap stones:</strong> Not all stones are created equal. Low-quality materials don't chill as effectively.</li>
 <li><strong>Expecting ice-level cold:</strong> Stones chill, but they don't freeze. They're for gentle cooling, not extreme cold.</li>
 </ul>
 
@@ -35,4 +34,4 @@ layout: default
 
 <p>Follow these steps, and whiskey stones will transform your drinking experience. <a href="https://nivoak.com/shop/">Browse Nivoak's premium whiskey stones</a> and start your journey the right way.</p>
 ---
-*Originally published on [Nivoak.com](https://nivoak.com/?p=2795)*
+*Originally published on [Nivoak.com](https://nivoak.com/?p=2811)*
