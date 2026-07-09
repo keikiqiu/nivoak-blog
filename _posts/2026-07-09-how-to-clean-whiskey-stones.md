@@ -3,7 +3,6 @@ title: "How to Clean Whiskey Stones the Right Way"
 date: 2026-07-09
 layout: default
 ---
-
 <p>Cleaning whiskey stones is simple: rinse them with warm water and mild soap after each use, dry them thoroughly, and you're done. But there's a right way and a wrong way to maintain them. Here's everything you need to keep your whiskey stones in perfect condition.</p>
 
 <h2>Basic Cleaning After Each Use</h2>
@@ -24,7 +23,7 @@ layout: default
 <p>After cleaning, dry your stones thoroughly with a soft cloth. Any moisture left on the surface can freeze and form ice crystals, which defeats the purpose of using stones over ice. Once dry, store them in the freezer in their storage box or bag so they're always ready to use.</p>
 
 <h2>How Often to Clean</h2>
-<p>Clean your whiskey stones after every use. It takes 30 seconds and prevents any buildup of residue, bacteria, or odors. If you use them daily, a quick rinse and dry is sufficient, with a deep clean once a month.</p>
+<p>Clean your whiskey stones after every use. It takes 30 seconds and keeps them in good condition. If you use them daily, a quick rinse and dry is sufficient, with a deep clean once a month.</p>
 
 <h2>Frequently Asked Questions</h2>
 <h3>Can I put whiskey stones in the dishwasher?</h3>
@@ -37,6 +36,5 @@ layout: default
 <p>Not really — just clean and dry them after each use. With proper care, quality stainless steel stones will last for years.</p>
 
 <p>Looking for low-maintenance whiskey stones? <a href="https://nivoak.com/shop/">Nivoak's stainless steel stones</a> are dishwasher safe and built to last.</p>
-
 ---
-*Originally published on [Nivoak.com](https://nivoak.com/?p=2787)*
+*Originally published on [Nivoak.com](https://nivoak.com/?p=2803)*
